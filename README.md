@@ -1,5 +1,7 @@
 # Texas-Hold-em-Poker-Event
-德州扑克代码，德州扑克源代码，德州国内赛事app源代码，德州线下和线上比赛代码，德州比赛打门牌代码；TG：@xuzongbin001
+德州扑克代码，德州竞技馆，德州竞技赛代码，德州线下比赛源代码，德州cpg，TJPT比赛app代码，德州扑克源代码，德州国内赛事app源代码，德州线下和线上比赛代码，德州比赛打门牌代码；TG：@xuzongbin001
+
+[我们的德州项目不是网上那种外包团队的德州产品：没有在市场上盈利过，中看不中用，服务器漏洞不少的德州产品]
 ![2024_02_03_21_40_IMG_7034](https://github.com/user-attachments/assets/85861554-0d1b-4658-8c9c-babf035bf0ef)
 ![2024_02_03_21_39_IMG_7030](https://github.com/user-attachments/assets/6f219415-3af4-4da0-86db-9783c718c81f)
 ![2024_01_20_13_01_IMG_6700](https://github.com/user-attachments/assets/239be3ab-4baf-48b7-9828-6bec8fb2a808)
